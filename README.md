@@ -1,5 +1,5 @@
 # 🇧🇷 Olá! Eu sou o Fhillipi Martins 
- Desenvolvedor De Software | Analista de Dados | Automação | IA  
+ Desenvolvedor De Software | Analista de Dados | Automação  
  
 Busco constantemente inovar, aprendendo novas ferramentas e aprimorando
 minhas habilidades. 
@@ -8,7 +8,7 @@ e estou sempre explorando novas formas de transformar ideias em soluções
 reais que agreguem valor.
 
 # 🇺🇸 Hi There ! I'm Fhillipi Martins 
-  Software Developer | Data Analyst | Automation | AI
+  Software Developer | Data Analyst | Automation 
 
 I Constantly seek to innovate, learning new tools and improving my skills.
 I believe that technology is a means of continuous evolution, and I am always exploring new ways to transform ideas into real solutions that add value.
