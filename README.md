@@ -26,6 +26,11 @@ I believe that technology is a means of continuous evolution, and I am always ex
 
 ##
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FhillipiMartins/FhillipiMartins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FhillipiMartins/FhillipiMartins/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FhillipiMartins/FhillipiMartins/output/github-contribution-grid-snake.svg">
+</picture>
 <div> 
 
   <a href = "mailto:oFhillipimartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
