@@ -15,7 +15,6 @@ Busco constantemente inovar, aprendendo novas ferramentas e aprimorando minhas h
 - 💻 Desenvolvendo sistemas em **Java** e **Spring**
 - 📊 Usando **Python** para automação e análise de dados
 - ☁️ Estudando **cloud** (Azure e AWS)
-- 🌱 Sempre aprendendo algo novo
 
 ### 🇺🇸 About me
 
@@ -64,17 +63,6 @@ Computer Engineering student and developer focused on **Java back-end**, **data 
 
 ---
 
-### 📂 Projetos em destaque
-
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [SistemaMonitoramentoProducao](https://github.com/FhillipiMartins/SistemaMonitoramentoProducao) | Sistema de monitoramento de produção | Java |
-| [Transa-o-api](https://github.com/FhillipiMartins/Transa-o-api) | API de transações | Java |
-| [SISTEMA_BIBLIOTECA](https://github.com/FhillipiMartins/SISTEMA_BIBLIOTECA) | Sistema de gerenciamento de biblioteca | Java |
-| [CampoMinado-](https://github.com/FhillipiMartins/CampoMinado-) | Jogo Campo Minado | Java |
-
----
-
 ### 🐍 Contribuições
 
 <picture>
@@ -93,14 +81,7 @@ Computer Engineering student and developer focused on **Java back-end**, **data 
 </p>
 ##
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FhillipiMartins/FhillipiMartins/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FhillipiMartins/FhillipiMartins/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FhillipiMartins/FhillipiMartins/output/github-contribution-grid-snake.svg">
-</picture>
-<div> 
 
-  <a href = "mailto:oFhillipimartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devfhillipimartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
