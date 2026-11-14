@@ -15,6 +15,7 @@ Busco constantemente inovar, aprendendo novas ferramentas e aprimorando minhas h
 - 💻 Desenvolvendo sistemas em **Java** e **Spring**
 - 📊 Usando **Python** para automação e análise de dados
 - ☁️ Estudando **cloud** (Azure e AWS)
+- 🌱 Sempre aprendendo algo novo
 
 ### 🇺🇸 About me
 
@@ -79,11 +80,3 @@ Computer Engineering student and developer focused on **Java back-end**, **data 
   <a href="https://www.linkedin.com/in/devfhillipimartins" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:oFhillipimartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-##
-
-
-  <a href="https://www.linkedin.com/in/devfhillipimartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
